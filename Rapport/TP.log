@@ -1,0 +1,411 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2024.7.24)  31 JAN 2025 19:31
+entering extended mode
+**./TP.tex
+(TP.tex
+LaTeX2e <2018-12-01>
+("C:\Users\Nathan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+("C:\Users\Nathan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size10.clo"
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\Nathan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.sty
+"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+ ("C:\Users\Nathan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\latin1.def"
+File: latin1.def 2018/08/11 v1.3c Input encoding file
+))
+("C:\Users\Nathan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.s
+ty"
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\Nathan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.s
+ty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\Nathan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.st
+y"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen103
+))
+("C:\Users\Nathan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.st
+y"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen104
+)
+("C:\Users\Nathan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.st
+y"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks17
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks18
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+("C:\Users\Nathan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfonts
+.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:\Users\Nathan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb.
+sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+("C:\Users\Nathan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\makeidx.sty"
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+("C:\Users\Nathan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx
+.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Nathan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.s
+ty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+("C:\Users\Nathan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics
+.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Nathan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty
+"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Nathan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\grap
+hics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\Nathan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdft
+ex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+("C:\Users\Nathan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count100
+\float@exts=\toks22
+\float@box=\box29
+\@float@everytoks=\toks23
+\@floatcapt=\box30
+)
+("C:\Users\Nathan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color.st
+y"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("C:\Users\Nathan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\colo
+r.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+("C:\Users\Nathan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry
+.sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("C:\Users\Nathan\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.
+sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+("C:\Users\Nathan\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifvtex
+.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Users\Nathan\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\ifxetex
+.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count101
+\Gm@cntv=\count102
+\c@Gm@tempcnt=\count103
+\Gm@bindingoffset=\dimen114
+\Gm@wd@mp=\dimen115
+\Gm@odd@mp=\dimen116
+\Gm@even@mp=\dimen117
+\Gm@layoutwidth=\dimen118
+\Gm@layoutheight=\dimen119
+\Gm@layouthoffset=\dimen120
+\Gm@layoutvoffset=\dimen121
+\Gm@dimlist=\toks24
+
+("C:\Users\Nathan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry
+.cfg"))
+("C:\Users\Nathan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhdr\fancyhdr
+.sty"
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip46
+\f@nch@O@elh=\skip47
+\f@nch@O@erh=\skip48
+\f@nch@O@olh=\skip49
+\f@nch@O@orh=\skip50
+\f@nch@O@elf=\skip51
+\f@nch@O@erf=\skip52
+\f@nch@O@olf=\skip53
+\f@nch@O@orf=\skip54
+) (TP.aux)
+\openout1 = `TP.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+
+("C:\Users\Nathan\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-
+pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count104
+\scratchdimen=\dimen122
+\scratchbox=\box31
+\nofMPsegments=\count105
+\nofMParguments=\count106
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count107
+\MPscratchDim=\dimen123
+\MPnumerator=\count108
+\makeMPintoPDFobject=\count109
+\everyMPtoPDFconversion=\toks26
+)
+("C:\Users\Nathan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf
+-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\Nathan\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infwar
+err.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\Nathan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.s
+ty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\Nathan\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdefi
+nekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\Nathan\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmd
+s.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\Nathan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoption
+s.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\Nathan\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetk
+eys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\Nathan\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcm
+ds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\Nathan\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifluat
+ex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Users\Nathan\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdftex
+cmds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=731.23584pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<40ansISSEA.png, id=1, 743.77875pt x 621.07031pt>
+File: 40ansISSEA.png Graphic file (type png)
+<use 40ansISSEA.png>
+Package pdftex.def Info: 40ansISSEA.png  used on input line 20.
+(pdftex.def)             Requested size: 74.38223pt x 62.11066pt.
+LaTeX Font Info:    Try loading font information for U+msa on input line 20.
+("C:\Users\Nathan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 20.
+ ("C:\Users\Nathan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd
+"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+File: 40ansISSEA.png Graphic file (type png)
+<use 40ansISSEA.png>
+Package pdftex.def Info: 40ansISSEA.png  used on input line 24.
+(pdftex.def)             Requested size: 74.38223pt x 62.11066pt.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 46.
+ ("C:\Users\Nathan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/bx/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/b/n' tried instead on input line 46.
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 63.
+
+[1
+
+{C:/Users/Nathan/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./40ansISS
+EA.png>]
+<Stat1.png, id=16, 489.62926pt x 194.52675pt>
+File: Stat1.png Graphic file (type png)
+<use Stat1.png>
+Package pdftex.def Info: Stat1.png  used on input line 110.
+(pdftex.def)             Requested size: 435.32422pt x 172.95015pt.
+ [1]
+<Conv1.png, id=26, 459.51675pt x 195.73125pt>
+File: Conv1.png Graphic file (type png)
+<use Conv1.png>
+Package pdftex.def Info: Conv1.png  used on input line 120.
+(pdftex.def)             Requested size: 435.32422pt x 185.42992pt.
+<Conv2.png, id=27, 525.76425pt x 206.57175pt>
+File: Conv2.png Graphic file (type png)
+<use Conv2.png>
+Package pdftex.def Info: Conv2.png  used on input line 132.
+(pdftex.def)             Requested size: 435.32422pt x 171.04158pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[2 <./Stat1.png> <./Conv1.png>]
+<Conv3.png, id=33, 633.11531pt x 390.70969pt>
+File: Conv3.png Graphic file (type png)
+<use Conv3.png>
+Package pdftex.def Info: Conv3.png  used on input line 146.
+(pdftex.def)             Requested size: 241.84843pt x 149.24625pt.
+ [3 <./Conv2.png> <./Conv3.png>] (TP.aux) ) 
+Here is how much of TeX's memory you used:
+ 3178 strings out of 492942
+ 44771 string characters out of 3125770
+ 118506 words of memory out of 3000000
+ 7003 multiletter control sequences out of 15000+200000
+ 12592 words of font info for 47 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,11n,43p,530b,284s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Nathan/AppData/Local/Progr
+ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbsy10.pfb><C:/Users/Nathan/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Use
+rs/Nathan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx
+12.pfb><C:/Users/Nathan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmbx7.pfb><C:/Users/Nathan/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmbx9.pfb><C:/Users/Nathan/AppData/Local/Programs/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/Nathan/AppData/Local
+/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Nathan
+/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:
+/Users/Nathan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmr10.pfb><C:/Users/Nathan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmr7.pfb><C:/Users/Nathan/AppData/Local/Programs/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Nathan/AppData/Local/Programs/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Nathan/AppData/Local/
+Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Nathan/A
+ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on TP.pdf (4 pages, 954910 bytes).
+PDF statistics:
+ 82 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+
